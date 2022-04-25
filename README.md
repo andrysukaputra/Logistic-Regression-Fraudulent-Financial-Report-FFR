@@ -3,4 +3,4 @@ Fraud often occurs due to conflicts of interest both between managers and compan
 # Data Analysis:
 Analysis and data processing performed using IBM SPSS Statistics software.
 # Note:
-Full research and analysis on the ResearchGate (soon)
+See full description of analysis in the ResearchGate (soon)
