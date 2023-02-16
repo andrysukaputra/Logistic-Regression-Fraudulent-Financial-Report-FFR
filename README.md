@@ -1,5 +1,5 @@
-# Analysis of Fraudulent Financial Report in Indonesia State Owned Enterprises
+# Logistic Regression Fraudulent Financial Report FFR
 
-The analysis is a study on the scope of finance, especially the Fraudulent Financial Report (FFR) in Indonesia State Owned Enterprises using Logistic Regression in IBM SPSS Statistics.
+Econometrics causality analysis for classification model using logistic Regression method on the scope of finance to see Fraudulent Financial Report (FFR) in Indonesia State Owned Enterprises.
 
 If you want to know more about logistic regression analysis I did. Please visit my research at [ResearchGate](https://www.researchgate.net/profile/Andry-Suka-Putra)
